@@ -30,6 +30,10 @@
   font-size: 20px;
 }
 
+.orderHeader button {
+  background-color: transparent;
+}
+
 .leftBtn {
   padding: 0;
 }
