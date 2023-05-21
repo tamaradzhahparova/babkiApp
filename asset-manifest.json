@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/babkiApp/static/css/main.b8c00cb4.css",
+    "main.css": "/babkiApp/static/css/main.70929ed5.css",
     "main.js": "/babkiApp/static/js/main.818a8f07.js",
     "static/js/787.cda612ba.chunk.js": "/babkiApp/static/js/787.cda612ba.chunk.js",
     "static/media/bg.png": "/babkiApp/static/media/bg.8c371ca826231ede397e.png",
@@ -8,12 +8,12 @@
     "static/media/coffeeImg.png": "/babkiApp/static/media/coffeeImg.61995d2d79685a75ccee.png",
     "static/media/priceIcon.svg": "/babkiApp/static/media/priceIcon.971b89563124128d9dd7.svg",
     "index.html": "/babkiApp/index.html",
-    "main.b8c00cb4.css.map": "/babkiApp/static/css/main.b8c00cb4.css.map",
+    "main.70929ed5.css.map": "/babkiApp/static/css/main.70929ed5.css.map",
     "main.818a8f07.js.map": "/babkiApp/static/js/main.818a8f07.js.map",
     "787.cda612ba.chunk.js.map": "/babkiApp/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8c00cb4.css",
+    "static/css/main.70929ed5.css",
     "static/js/main.818a8f07.js"
   ]
 }
