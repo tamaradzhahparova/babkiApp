@@ -26,12 +26,12 @@
   border-bottom: 1px solid #D9D9D9;
 }
 
-.orderHeader span {
-  font-size: 20px;
-}
-
 .orderHeader button {
   background-color: transparent;
+}
+
+.orderHeader span {
+  font-size: 20px;
 }
 
 .leftBtn {
