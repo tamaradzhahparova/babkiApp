@@ -19,7 +19,7 @@
 .orderButton {
   background-color: #FFD540;
   position: fixed;
-  bottom: 18px;
+  bottom: 16px;
   left: calc(50% - 60px);
   font-size: 18px;
 }

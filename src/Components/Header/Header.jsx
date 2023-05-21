@@ -1,7 +1,6 @@
 import s from "./Header.module.css";
 import { Link } from "react-router-dom";
 import { Avatar } from "@mui/material";
-import { deepPurple } from "@mui/material/colors";
 
 const optionsMock = [
   "Топ недели",
