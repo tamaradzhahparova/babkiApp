@@ -11,7 +11,7 @@
 
 .wrapper {
   position: fixed;
-  top: 116px;
+  top: 140px;
   height: calc(100vh - 116px);
   overflow-y: scroll;
 }
@@ -19,7 +19,7 @@
 .orderButton {
   background-color: #FFD540;
   position: fixed;
-  bottom: 54px;
+  bottom: 18px;
   left: calc(50% - 60px);
   font-size: 18px;
 }

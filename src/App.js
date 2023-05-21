@@ -45,7 +45,7 @@ function App() {
                     className="orderButton"
                     onClick={() => setIsOrderOpen(true)}
                   >
-                    ваш заказ
+                    Ваш заказ
                   </button>
                 </div>
               </>
