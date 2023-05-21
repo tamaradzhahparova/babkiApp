@@ -3,7 +3,7 @@ import * as React from "react";
 import { useState } from "react";
 import Header from "./Components/Header/Header";
 import MainContent from "./Components/MainContent/MainContent";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { HashRouter as Router, Route, Routes } from "react-router-dom";
 import MenuList from "./Components/MenuList/MenuList";
 import coffeeImg from "./assets/img/coffeeImg.png";
 import CoffeeCard from "./Components/CoffeeCard/CoffeeCard";
